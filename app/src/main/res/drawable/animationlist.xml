@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/card_yundong"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/card_pinggu"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/card_niaoliang"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/card_huxi"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/card_tizhong"
+        android:duration="100" />
+</animation-list>

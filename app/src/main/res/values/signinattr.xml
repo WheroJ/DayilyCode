@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SignInView">
+        <attr name="drawDate" format="boolean"/>
+        <attr name="level1" format="string"/>
+        <attr name="level2" format="string"/>
+        <attr name="signColor" format="color"/>
+        <attr name="notSignColor" format="color"/>
+        <attr name="lineColor" format="color"/>
+        <attr name="lineWidth" format="dimension"/>
+        <attr name="circlewidth" format="dimension"/>
+        <attr name="circleHeight" format="dimension"/>
+    </declare-styleable>
+</resources>
